@@ -1,10 +1,10 @@
-To run app enter:
+To run app, install composer autoload, enter:
 
 ```
 php app.php
 ```
 
-Tu run tests, install PHPUnit and enter:
+To run tests, install PHPUnit and enter:
 
 ```
 phpunit tests
