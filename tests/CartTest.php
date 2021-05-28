@@ -1,8 +1,7 @@
 <?php
+require "vendor/autoload.php";
 
 use PHPUnit\Framework\TestCase;
-
-require __DIR__ . "/../src/Cart.php";
 
 class CartTests extends TestCase
 {
